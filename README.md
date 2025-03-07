@@ -38,4 +38,4 @@ Here are some screenshots showcasing the hand tracking and holographic effects:
 ![Image4](media/grid.png)
 
 ## 🎥 Demo Video
-Check out the live demo on [LinkedIn].
+Check out the live demo on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7303644946236919809/).
